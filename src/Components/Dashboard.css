@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;600;700&display=swap');
+
+body {
+  background: black;
+  color: white;
+  font-family: 'Nunito',sans-serif;
+}
+.widgetWrap {
+  background: #2a2a2a;
+  margin-top: 5px;
+  
+}
+.widgetTitle {
+  border-bottom: 1px solid #665151;
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 10px 10px;
+}
+.widgetValue .value {
+  font-size: 57px;
+  font-weight:700;
+  text-align: left;
+  padding: 0px 7px;
+  line-height: 100%;
+}
+.description {
+  font-size: 13px;
+  padding-left:13px;
+  text-align: left;
+}
+.widgetValue {
+  padding-top:10px;
+  padding-bottom: 10px; 
+  color:red;
+}
+.topHeader  {
+    align-items: center;
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px 20px;
+    background: #2a2a2a;
+    margin-bottom: 10px;
+    
+}
+.row {
+    padding: 5px;
+}
+.widgetTitle {
+    text-align: center;
+    color: palevioletred;
+    font-size: 19px;
+}
+.Dropdown-root {
+    width: 216px;
+    float: right;
+}
+.text {
+  fill: white;
+}
